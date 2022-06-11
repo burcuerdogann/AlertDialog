@@ -2,4 +2,4 @@
 
 Android Development / Java Tutorials - Lesson 8
 
-Alert Dialog
+Alert Dialog | Toast Message
