@@ -1,5 +1,5 @@
 # AlertDialog
 
-Android Development / Java Tutorials - Lesson 8
+Android Development / Java Tutorial - Lesson 8
 
 Alert Dialog | Toast Message
